@@ -1,0 +1,50 @@
+:root {
+  /* Brand palette (from the project brief) */
+  --color-primary: #2f4f4f;
+  --color-primary-dark: #223a3a;
+  --color-primary-soft: #e6eeee;
+  --color-secondary: #ffa0a0;
+  --color-secondary-dark: #f27f7f;
+  --color-secondary-soft: #fff0f0;
+
+  --color-bg: #ffffff;
+  --color-bg-soft: #f7f5f2;
+  --color-surface: #ffffff;
+  --color-border: #e4e0da;
+  --color-text: #1f2a2a;
+  --color-muted: #667373;
+  --color-danger: #b3261e;
+  --color-success: #2e7d4f;
+  --color-star: #e0a030;
+  --color-media-bg: #ededed; /* matches the product photo backdrops so images blend in */
+
+  --font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  --fs-xs: 0.78rem;
+  --fs-sm: 0.88rem;
+  --fs-base: 1rem;
+  --fs-md: 1.125rem;
+  --fs-lg: 1.375rem;
+  --fs-xl: clamp(1.6rem, 3vw, 2.1rem);
+  --fs-hero: clamp(2.1rem, 5.5vw, 3.9rem);
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 1px 3px rgba(31, 42, 42, 0.08);
+  --shadow-md: 0 8px 24px rgba(31, 42, 42, 0.1);
+  --shadow-lg: 0 18px 44px rgba(31, 42, 42, 0.16);
+
+  --container: 1240px;
+  --header-h: 72px;
+}
