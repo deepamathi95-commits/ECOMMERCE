@@ -7,3 +7,5 @@ Pillow>=10.4
 # Database drivers: install the one you use (see README). mysqlclient = MySQL, psycopg2-binary = PostgreSQL.
 mysqlclient>=2.2
 psycopg2-binary>=2.9
+gunicorn
+whitenoise
